@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DaggerTestApp</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="login_screen">Login screen</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="log_in">Log In</string>
+    <string name="registration">registration</string>
+    <string name="there_is_no_such_user">There is no such user</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="tos_text">Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text Tos text</string>
+    <string name="accept">Accept</string>
+    <string name="add_note">Add note</string>
+    <string name="log_out">Log Out</string>
+    <string name="title">title</string>
+    <string name="text">text</string>
+    <string name="note_has_been_added">Note has been added</string>
+</resources>
